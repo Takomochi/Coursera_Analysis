@@ -1,5 +1,4 @@
-# Coursera_Analysis
- <h2>Data Analysis of Coursera Dataset</h2>
+# Data Analysis of Coursera Dataset
  
  <h3>What is Coursera?</h3> 
  
